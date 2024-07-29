@@ -7,4 +7,4 @@ Create Main.db file in the root folder to store user information<br/>
 /points - returns points of users in Main.db (this bot stores the number of messages sent by all users in the server as "points")<br/>
 /hello - says hello<br/>
 /proverb - says a chinese proverb<br/>
-More commands coming eventually<br/>
+Stock brokerage automation commands coming eventually<br/>
